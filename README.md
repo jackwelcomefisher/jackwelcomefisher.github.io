@@ -1,5 +1,3 @@
-![Profile picture](profile_picture.png)
-
 ## About Me
 
 Welcome to my website, my name is Jack Fisher. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.
