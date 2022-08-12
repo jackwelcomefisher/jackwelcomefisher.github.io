@@ -16,8 +16,4 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 - *The Cost of Labor Supply Biases*
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+
