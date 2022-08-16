@@ -6,7 +6,7 @@ Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher
 
 My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
-### Research
+## Research
 
 - *Worker Welfare in the Gig Economy* [JMP - Coming soon]
 
