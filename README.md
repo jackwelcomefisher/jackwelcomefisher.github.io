@@ -10,7 +10,8 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 ### Research
 
-- *Worker Welfare in the Gig Economy* [JMP - Coming soon]
+- *Worker Welfare in the Gig Economy* [JMP]
+  [Online appendix - Coming soon]
 
 - [*Refinancing Cross-Subsidies in the Mortgage Market*](https://jackwelcomefisher.github.io/refinancing.pdf) with [Alessandro Gavazza](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Falessandrogavazza%2F&sa=D&sntz=1&usg=AOvVaw0qTnv01t2dWV-DdBRncyHd), [Lu Liu](https://www.google.com/url?q=https%3A%2F%2Fwww.imperial.ac.uk%2Fpeople%2Fl.liu16&sa=D&sntz=1&usg=AOvVaw1kAbfrN9QlKIWxGT3ge_-S), [Tarun Ramadorai](https://www.google.com/url?q=https%3A%2F%2Fwww.tarunramadorai.com%2F&sa=D&sntz=1&usg=AOvVaw1UrCq7aWJP8geGKAF00YiD), and [Jagdish Tripathy](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fjagdishtripathy&sa=D&sntz=1&usg=AOvVaw11ff4cweCIVbFcyIkrYhOF)
 
