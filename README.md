@@ -1,6 +1,6 @@
 Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.
 
-My research aims to better understand the gig economy by using insights from industrial organization, labor economics, and behavioral economics. More broadly, I am interested in alternative work arrangements and labor market power. I also study some topics in household finance and enjoy teaching public economics.
+My research aims to better understand the gig economy by using insights from industrial organization, labor economics, and public finance. More broadly, I am interested in alternative work arrangements and labor market power. I also study some topics in household finance.
 
 I am on the job market in 2022-23 and will be available for interviews remotely, as well as in person at the EJM and the ASSA.
 
