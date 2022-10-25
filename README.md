@@ -6,7 +6,7 @@ I am on the job market in 2022-23 and will be available for interviews remotely,
 
 Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher@lse.ac.uk).
 
-My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
+My CV is available [here](https://jackwelcomefisher.github.io/Fisher_JM_CV_v1.pdf).
 
 ### Research
 
