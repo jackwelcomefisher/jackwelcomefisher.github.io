@@ -18,7 +18,7 @@ My CV is available [here](https://jackwelcomefisher.github.io/Fisher_JM_CV_curre
 
 ### Work in Progress
 
-- *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about/research?authuser=0)
+- *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about)
 
 - *Multinational Profit Shifting and the Book-Tax Gap* with [Katarzyna Bilicka](https://katarzynabilicka.weebly.com/), and [Jakob Brounstein](https://jakobbrounstein.github.io/index.html)
 
