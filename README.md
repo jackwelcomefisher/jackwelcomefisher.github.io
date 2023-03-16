@@ -2,7 +2,7 @@ Welcome to my website, my name is Jack. I am an economics PhD candidate at the L
 
 My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
 
-I am on the job market in 2022-23 and will be available for interviews remotely, as well as in person at the EJM and the ASSA.
+<!-- I am on the job market in 2022-23 and will be available for interviews remotely, as well as in person at the EJM and the ASSA. -->
 
 Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher@lse.ac.uk).
 
