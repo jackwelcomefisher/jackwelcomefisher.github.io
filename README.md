@@ -18,12 +18,12 @@ My CV is available [here](https://jackwelcomefisher.github.io/Fisher_JM_CV_curre
 
 - [*The Cost of Labor Supply Biases*](https://jackwelcomefisher.github.io/colb.pdf)
 
-### Work in Progress
+<!--- ### Work in Progress -->
 
-- *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about)
+<!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
-- *Multinational Profit Shifting and the Book-Tax Gap* with [Katarzyna Bilicka](https://katarzynabilicka.weebly.com/), and [Jakob Brounstein](https://jakobbrounstein.github.io/index.html)
+<!--- - *Multinational Profit Shifting and the Book-Tax Gap* with [Katarzyna Bilicka](https://katarzynabilicka.weebly.com/), and [Jakob Brounstein](https://jakobbrounstein.github.io/index.html) -->
 
-- *Multihoming in the Gig Economy*
+<!--- - *Multihoming in the Gig Economy* -->
 
-- *Consumer Demand in the Gig Economy*
+<!--- - *Consumer Demand in the Gig Economy* -->
