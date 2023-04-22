@@ -4,7 +4,7 @@ My research aims to better understand the gig economy by using insights from app
 
 <!--- I am on the job market in 2022-23 and will be available for interviews remotely, as well as in person at the EJM and the ASSA. -->
 
-I will join the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/) at Harvard's D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia's [economics department](https://economics.virginia.edu/) in summer 2024 as an assistant professor. In the meantime, I am excited to intern at Uber as an applied scientist.
+I will join the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/) at Harvard's D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia's [economics department](https://economics.virginia.edu/) in summer 2024 as an assistant professor. In the meantime, I am excited to intern at [Uber](https://www.uber.com/us/en/careers/teams/data-science/?_csid=vD1cFdrDB0NlxFRfiJtHmg&state=0zIp32pXknmcFSDAukbz_qbGpaC-hKpwHSHfd2-xiuU%3D&effect=) as an applied scientist.
 
 Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher@lse.ac.uk).
 
