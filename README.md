@@ -1,14 +1,10 @@
-Welcome to my website, my name is Jack. I am an economics PhD candidate at the London School of Economics. Happy to have passed through the University of York, University of Oxford, and University of California, Berkeley on the way.
+Welcome to my website, my name is Jack. I am currently a postdoctoral fellow at the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/), which is part of Harvard's D^3 Institute. In August 2024, I will be joining the University of Virginia's [Economics Department](https://economics.virginia.edu/) as an assistant professor. Happy to have passed through the University of York, the University of Oxford, UC Berkeley, and the London School of Economics on the way.
 
-My research aims to better understand the gig economy by using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
-
-<!--- I am on the job market in 2022-23 and will be available for interviews remotely, as well as in person at the EJM and the ASSA. -->
-
-I will join the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/) at Harvard's D^3 Institute in fall 2023 as a postdoctoral fellow, before joining the University of Virginia's [economics department](https://economics.virginia.edu/) in summer 2024 as an assistant professor. In the meantime, I am excited to intern at [Uber](https://www.uber.com/us/en/careers/teams/data-science/?_csid=vD1cFdrDB0NlxFRfiJtHmg&state=0zIp32pXknmcFSDAukbz_qbGpaC-hKpwHSHfd2-xiuU%3D&effect=) as an applied scientist.
+My research aims to better understand the gig economy using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
 
 Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher@lse.ac.uk).
 
-My CV is available [here](https://jackwelcomefisher.github.io/Fisher_JM_CV_current.pdf).
+My CV is available [here](https://jackwelcomefisher.github.io/cv.pdf).
 
 ### Research
 
