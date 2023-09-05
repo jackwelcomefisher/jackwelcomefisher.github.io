@@ -4,7 +4,7 @@ My research aims to better understand the gig economy using insights from applie
 
 Please feel free to reach out by email: [J.W.Fisher@lse.ac.uk](mailto:J.W.Fisher@lse.ac.uk).
 
-My CV is available [here](https://jackwelcomefisher.github.io/cv.pdf).
+My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 ### Research
 
