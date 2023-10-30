@@ -2,7 +2,7 @@ Welcome to my website, my name is Jack. I am currently a postdoctoral fellow at 
 
 My research aims to better understand the gig economy using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
 
-Please feel free to reach out by email: [j.fisher@hbs.edu](mailto:j.fisher@hbs.edu).
+Please feel free to reach out by email: [jfisher@hbs.edu](mailto:jfisher@hbs.edu).
 
 My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
