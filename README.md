@@ -15,7 +15,11 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 - [*The Cost of Labor Supply Biases*](https://jackwelcomefisher.github.io/colb.pdf)
 
-<!--- ### Work in Progress -->
+### Work in Progress
+
+- Monopsony Power in Rideshare Markets
+
+- Entry in Platform Economies
 
 <!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
