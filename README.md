@@ -17,9 +17,9 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 ### Work in Progress
 
-- Monopsony Power in Rideshare Markets
+- *Monopsony Power in Rideshare Markets*
 
-- Entry in Platform Economies
+- *Entry in Platform Economies*
 
 <!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
