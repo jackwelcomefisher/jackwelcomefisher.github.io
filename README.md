@@ -8,7 +8,7 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 ### Research
 
-- [*Worker Welfare in the Gig Economy*](https://jackwelcomefisher.github.io/JMP_current.pdf)
+- [*Worker Welfare in the Gig Economy*](https://jackwelcomefisher.github.io/worker_welfare.pdf)
 
 - [*Monopsony Power in the Gig Economy*](https://jackwelcomefisher.github.io/monop_ride.pdf)
 
