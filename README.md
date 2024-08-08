@@ -13,13 +13,13 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 - [*Monopsony Power in the Gig Economy*](https://jackwelcomefisher.github.io/monop_ride.pdf)
 
 - [*Refinancing Cross-Subsidies in the Mortgage Market*](https://jackwelcomefisher.github.io/refinancing.pdf) with [Alessandro Gavazza](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Falessandrogavazza%2F&sa=D&sntz=1&usg=AOvVaw0qTnv01t2dWV-DdBRncyHd), [Lu Liu](https://www.google.com/url?q=https%3A%2F%2Fwww.imperial.ac.uk%2Fpeople%2Fl.liu16&sa=D&sntz=1&usg=AOvVaw1kAbfrN9QlKIWxGT3ge_-S), [Tarun Ramadorai](https://www.google.com/url?q=https%3A%2F%2Fwww.tarunramadorai.com%2F&sa=D&sntz=1&usg=AOvVaw1UrCq7aWJP8geGKAF00YiD), and [Jagdish Tripathy](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fjagdishtripathy&sa=D&sntz=1&usg=AOvVaw11ff4cweCIVbFcyIkrYhOF)\
-[Conditionally accepted at the Journal of Financial Economics]
+[Journal of Financial Economics]
 
 - [*The Cost of Labor Supply Biases*](https://jackwelcomefisher.github.io/colb.pdf)
 
 ### Work in Progress
 
-- *Entry in Platform Economies*
+- *Entry in Two-Sided Markets* with [Chiara Farronato](https://sites.google.com/site/chiarafarronato/) and [Feng Zhu](http://fengzhu.info/)
 
 <!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
