@@ -1,8 +1,8 @@
-Welcome to my website, my name is Jack. I am currently a postdoctoral fellow at the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/), which is part of Harvard's D^3 Institute. In August 2024, I will be joining the University of Virginia's [Economics Department](https://economics.virginia.edu/) as an assistant professor. Happy to have passed through the University of York, the University of Oxford, UC Berkeley, and the London School of Economics on the way.
+Welcome to my website, my name is Jack. I am an assistant professor at the University of Virginia's [Economics Department](https://economics.virginia.edu/). Before this, I was a postdoctoral fellow at the [Platform Lab](https://d3.harvard.edu/labs/platform-lab/), part of Harvard's D^3 Institute. Happy to have passed through the University of York, the University of Oxford, UC Berkeley, and the London School of Economics on the way.
 
 My research aims to better understand the gig economy using insights from applied microeconomics. More broadly, I am interested in how technology shapes labor markets. I also study some topics in household and public finance.
 
-Please feel free to reach out by email: [jfisher@hbs.edu](mailto:jfisher@hbs.edu).
+Please feel free to reach out by email: [jack.w.fisher.91@gmail.com](mailto:jack.w.fisher.91@gmail.com).
 
 My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
