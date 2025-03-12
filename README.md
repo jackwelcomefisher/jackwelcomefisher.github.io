@@ -21,7 +21,7 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 
 ### Work in Progress
 
-- *Entry in Two-Sided Markets* with [Chiara Farronato](https://sites.google.com/site/chiarafarronato/) and [Feng Zhu](http://fengzhu.info/)
+- *Flexibility and Inefficiency in the Gig Economy* with [Chiara Farronato](https://sites.google.com/site/chiarafarronato/) and [Feng Zhu](http://fengzhu.info/)
 
 <!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
