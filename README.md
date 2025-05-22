@@ -22,6 +22,7 @@ My CV is available [here](https://jackwelcomefisher.github.io/CV.pdf).
 ### Work in Progress
 
 - *Flexibility and Inefficiency in the Gig Economy* with [Chiara Farronato](https://sites.google.com/site/chiarafarronato/) and [Feng Zhu](http://fengzhu.info/)
+- *Automation in the Gig Economy* with [Chiara Farronato](https://sites.google.com/site/chiarafarronato/) and [Chuan Yu](https://www.chuan-yu.org/)
 
 <!--- - *Capital and Migration* with [Mathilde Muñoz](https://sites.google.com/view/mathilde-munoz/about) -->
 
